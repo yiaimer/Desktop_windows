@@ -1,2 +1,2 @@
 # Test
-backup of desktop of windows desktop
+Coursera - IBM Data Science specialization - CapStone project
